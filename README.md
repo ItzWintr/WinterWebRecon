@@ -1,4 +1,4 @@
-# ❄️ WinterWebRecon
+# WinterWebRecon
 
 `WinterWebRecon` (or `wwtool`) is a powerful, fast and modular **web reconnaissance tool** written in Python 3 — designed for penetration testers, bug bounty hunters and cybersecurity students.
 
@@ -9,20 +9,20 @@
 
 ---
 
-## 🎯 Features
+## Features
 
-- ✅ Subdomain enumeration (`crt.sh`)
-- ✅ Bruteforce common paths
-- ✅ robots.txt & sitemap.xml fetcher
-- ✅ Header-based technology detection
-- ✅ IP resolution
-- ✅ CLI with arguments for modular use
-- ✅ Colorful terminal output
-- ✅ Installable via `pip`
+- Subdomain enumeration (`crt.sh`)
+- Bruteforce common paths
+- robots.txt & sitemap.xml fetcher
+- Header-based technology detection
+- IP resolution
+- CLI with arguments for modular use
+- Colorful terminal output
+- Installable via `pip`
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone git@github.com:ItzWintr/WinterWebRecon.git
