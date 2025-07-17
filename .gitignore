@@ -1,0 +1,31 @@
+Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.env
+.venv/
+env/
+venv/
+
+# VSCode / IDEs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Bytecode
+*.so
+
+# Test cache
+.pytest_cache/
+.cache/
