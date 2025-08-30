@@ -4,7 +4,7 @@ setup(
     name='winterwebrecon',
     version='1.0.0',
     description='Advanced Web Reconnaissance Tool',
-    author='Álvaro',
+    author='Álvaro Saura (Winter)',
     author_email='godbizmusic@gmail.com',
     url='https://github.com/ItzWintr/winterwebrecon',
     packages=find_packages(),
